@@ -8,6 +8,11 @@ A curated list of awesome resources for Origin-Destination Matrix Estimation (OD
 |:---------------:|:--------:|:--------:|:---------:|
 |`IEEE T-ITS`|2024|A Heterogeneous Graph Convolution Based Method for Short-Term OD Flow Completion and Prediction in a Metro System|[[Paper]](https://ieeexplore.ieee.org/document/10706995) [[Code]]()|
 
+**Neural network (NN)**
+| **Publication** | **Year** |**Title** | **Links** |
+|:---------------:|:--------:|:--------:|:---------:|
+|` `|2023|Large-Scale OD Matrix Estimation with A Deep Learning Method|[[Paper]](https://arxiv.org/abs/2310.05753) [[Code]]()|
+
 ## Optimization based approaches
 
 **Principal component analysis (PCA)**
