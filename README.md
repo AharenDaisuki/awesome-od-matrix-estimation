@@ -24,3 +24,8 @@ A curated list of awesome resources for Origin-Destination Matrix Estimation (OD
 | **Publication** | **Year** |**Title** | **Links** |
 |:---------------:|:--------:|:--------:|:---------:|
 |` `|2013|Dynamic origin–destination demand flow estimation under congested traffic conditions|[[Paper]](https://www.sciencedirect.com/science/article/pii/S0968090X13001071) [[Code]]()|
+
+**Link based optimization**
+| **Publication** | **Year** |**Title** | **Links** |
+|:---------------:|:--------:|:--------:|:---------:|
+|` `|2025|Estimation of origin-destination matrices for a congested urban road network utilizing region-level traffic dynamics|[[Paper]](https://www.research-collection.ethz.ch/handle/20.500.11850/710845) [[Code]]()|
