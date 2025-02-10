@@ -20,10 +20,17 @@ A curated list of awesome resources for Origin-Destination Matrix Estimation (OD
 |:---------------:|:--------:|:--------:|:---------:|
 |`ISTTT25`|2024|Data driven origin–destination matrix estimation on large networks—A joint origin–destination-path-choice formulation|[[Paper]](https://www.sciencedirect.com/science/article/pii/S0968090X24003711) [[Code]]()|
 
+**Bi-level optimization with SPSA**
+| **Publication** | **Year** |**Title** | **Links** |
+|:---------------:|:--------:|:--------:|:---------:|
+|`IEEE ITSC`|2018|Dynamic Origin-Destination Estimation without Historical Origin-Destination Matrices for Microscopic Simulation Platform in Urban Network(:triangular_flag_on_post:)|[[Paper]](https://ieeexplore.ieee.org/document/8569241) [[Code]]()|
+|` `|2022|Dynamic Origin-Destination Matrix Estimation in Urban Traffic Networks|[[Paper]](https://openreview.net/forum?id=cN6uWO99F7&referrer=%5Bthe%20profile%20of%20Marco%20Chiarandini%5D(%2Fprofile%3Fid%3D~Marco_Chiarandini1)) [[Code]]()|
+
 **Path flow based optimization**
 | **Publication** | **Year** |**Title** | **Links** |
 |:---------------:|:--------:|:--------:|:---------:|
 |` `|2013|Dynamic origin–destination demand flow estimation under congested traffic conditions|[[Paper]](https://www.sciencedirect.com/science/article/pii/S0968090X13001071) [[Code]]()|
+|`IEEE ITSC`|2022|Estimating the origin-destination matrix using link count observations and traffic flow dynamics(:triangular_flag_on_post:)|[[Paper]](https://ieeexplore.ieee.org/document/9921951) [[Code]]()|
 
 **Link based optimization**
 | **Publication** | **Year** |**Title** | **Links** |
